@@ -42,7 +42,7 @@ As of october 2020, manually installing is the prefered way, new versions coming
   - `sudo apt-get update`
   - `sudo apt-get dist-upgrade -y`
 - Open the configuration tool
-  - `sudo raspiconfig`
+  - `sudo raspi-config`
 - Set the network name to `ProjectAlice`
 - Set your locales
 - **Change the default user password**
